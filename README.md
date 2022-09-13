@@ -2,9 +2,9 @@
 
 ## Introduction
 
-<br/> <div align=center><img src="figs/introfig.pdf" width="700px"/></div>
+<br/> <div align=center><img src="figs/introfig.png" width="700px"/></div>
 
-<br/> <div align=center><img src="figs/Fig1_Motivation.pdf" width="700px"/></div>
+<br/> <div align=center><img src="figs/Fig1_Motivation.png" width="700px"/></div>
 
 ## Model Evaluation on Classification task
 
