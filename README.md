@@ -1,11 +1,12 @@
 ## Requirements
 
 ```
-pytorch==1.2.0
-scipy==1.2.1
-nibabel==2.4.1
-pandas==1.0.1
-numpy==1.16.2
+pytorch==1.10.0
+scipy==1.8.0
+nibabel==3.2.2
+pandas==1.3.5
+numpy==1.21.2
+seaborn=0.11.2
 ```
 
 ## Introduction
@@ -20,6 +21,9 @@ We find existing methods struggle with data that present class imbalance, becaus
 
 <br/> <div align=center><img src="figs/Fig1_Motivation.png" width="700px"/></div>
 
+## Data
+Please download the data from [Data](https://drive.google.com/file/d/139pqxkG2ccIFq6qNArnFJWQ2by2Spbxt/view?usp=sharing), and put them under '/data/'.
+
 ## Model Evaluation on Classification task
 
 Refer to juypter notebook:
@@ -33,6 +37,10 @@ Refer to jupyter notebook:
 ```
 Prostate.ipynb
 ```
+
+Note that the optimization process takes longer as we take probabiltiy maps as dense predictions.
+
+We just show a result of one condition for simplicity. Please contact us (zeju.li18@imperial.ac.uk) for raw data if you want to reproduce more results in this paper.
 
 ## Citation
 If you find our work has positively influenced your projects, please kindly consider to cite our work:
