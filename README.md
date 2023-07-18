@@ -35,7 +35,7 @@ python -m ipykernel install --user --name=modeleval
 ```
 
 ## Data
-Please download the data from [Data](https://drive.google.com/file/d/139pqxkG2ccIFq6qNArnFJWQ2by2Spbxt/view?usp=sharing), and put them under '/data/'.
+Please download the data from [the link](https://drive.google.com/file/d/139pqxkG2ccIFq6qNArnFJWQ2by2Spbxt/view?usp=sharing), and put them under '/data/'.
 
 ## Model evaluation on classification task
 
