@@ -21,7 +21,7 @@ For Conda users, you can create a new Conda environment using
 ```
 conda create -n modeleval python=3.9
 ```
-after activate the environment with 
+after activating the environment with 
 ```
 source activate modeleval
 ```
@@ -29,7 +29,7 @@ try to install all the dependencies with
 ```
 pip install -r requirements.txt
 ```
-Also install the conda environment for the jupyter notebook kernel.
+at last, let us install the conda environment for the jupyter notebook kernel.
 ```
 python -m ipykernel install --user --name=modeleval
 ```
@@ -37,14 +37,14 @@ python -m ipykernel install --user --name=modeleval
 ## Data
 Please download the data from [Data](https://drive.google.com/file/d/139pqxkG2ccIFq6qNArnFJWQ2by2Spbxt/view?usp=sharing), and put them under '/data/'.
 
-## Model Evaluation on Classification task
+## Model evaluation on classification task
 
 Refer to juypter notebook:
 ```
 ImbalanceCIFAR10.ipynb
 ```
 
-## Model Evaluation on Segmentation task
+## Model evaluation on segmentation task
 
 Refer to jupyter notebook:
 ```
