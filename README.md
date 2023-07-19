@@ -56,7 +56,7 @@ Note that the optimization process takes longer as we take probabiltiy maps as d
 We just show a result of one condition for simplicity. Please contact us (zeju.li18@imperial.ac.uk) for raw data if you want to reproduce more results in this paper.
 
 ## Citation
-If you find our work has positively influenced your projects, please kindly consider to cite our work:
+If you find our work has positively influenced your projects, please kindly consider citing our work:
 
 ```
 @article{li2022estimating,
